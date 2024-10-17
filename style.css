@@ -1,0 +1,28 @@
+body{
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    grid-template-rows: 20vh 60vh 20vh;
+    background-color: #fcdee0;
+    gap: 10px;
+}
+
+#rawr{
+    height: 99%;
+    width: 99%;
+}
+
+.container{
+    border: 3px solid black;
+    border-radius: 10px;
+    background-color: #f5eaea;
+    text-align: center;
+}
+
+#rubrik{
+    text-align: center;
+}
+
+article{
+    border: 1px solid black;
+    height: 110px;
+}
